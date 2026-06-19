@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Trained models
+*.keras
+*.h5
+*.ckpt
+
+# Project outputs
+results/models/
+results/logs/
+results/predictions/
